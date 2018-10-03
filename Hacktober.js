@@ -3,3 +3,7 @@
 function Henry_Chang() {
     alert("Hello! I am Henry!");
   }
+
+function Rob_Dominguez() {
+    alert("Hello! I am Rob!");
+  }
