@@ -2,4 +2,5 @@
 
 function Henry_Chang() {
     alert("Hello! I am Henry!");
+    console.log("Hello, I am Mr. James.");
   }
