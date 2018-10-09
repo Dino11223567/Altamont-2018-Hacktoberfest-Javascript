@@ -1,3 +1,4 @@
+
 // take the function name you added to the onclick in the html and add an alert to it
 
 function Henry_Chang() {
@@ -7,3 +8,12 @@ function Henry_Chang() {
 function Rob_Dominguez() {
     alert("Hello! I am Rob!");
   }
+
+function davidNiederweis() {
+    alert("Hello, my name is David Niederweis");   
+}
+
+function Brenda_Fitz() {
+    alert("Hello! I am Brenda!");
+  }
+
