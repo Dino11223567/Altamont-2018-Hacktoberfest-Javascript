@@ -7,3 +7,7 @@ function Henry_Chang() {
 function davidNiederweis() {
     alert("Hello, my name is David Niederweis");   
 }
+
+function Brenda_Fitz() {
+    alert("Hello! I am Brenda!");
+  }
