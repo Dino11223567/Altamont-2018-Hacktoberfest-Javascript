@@ -4,6 +4,10 @@ function Henry_Chang() {
     alert("Hello! I am Henry!");
   }
 
+function davidNiederweis() {
+    alert("Hello, my name is David Niederweis");   
+}
+
 function Brenda_Fitz() {
     alert("Hello! I am Brenda!");
   }
