@@ -16,6 +16,6 @@ function Brenda_Fitz() {
     alert("Hello! I am Brenda!");
   }
 
-function ryan_james(){
+function Ryan_James(){
    alert("Hello! I am Mr. James!);
  }
