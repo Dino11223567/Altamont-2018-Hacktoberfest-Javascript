@@ -19,3 +19,6 @@ function Brenda_Fitz() {
 function ryan_james(){
    alert("Hello! I am Mr. James!);
  }
+function davis_smith(){
+     alert("Hello world");
+ }
