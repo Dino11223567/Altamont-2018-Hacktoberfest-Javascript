@@ -20,11 +20,19 @@ function Ryan_James(){
    alert("Hello! I am Mr. James!);
  }
          
+function fireflewdev(){
+   alert("Hello! I am FireflewDev!");
+}
+
+function MisterDunn(){
+   alert("Hello! I am Meester Dunn!");
+}    
+
+         
 function davis_smith(){
      alert("Hello world");
  }
 
-    }
          
 function fireflewdev(){
    alert("Hello! I am FireflewDev!");
