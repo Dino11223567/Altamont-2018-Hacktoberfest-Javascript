@@ -49,3 +49,7 @@ function davis_smith(){
 function fireflewdev(){
    alert("Hello! I am FireflewDev!");
     }
+    
+function MAM(){
+   alert("hellomynameis m a m");
+    }
