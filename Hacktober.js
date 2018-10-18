@@ -1,4 +1,7 @@
 // take the function name you added to the onclick in the html and add an alert to it
+function haxor() {
+    alert("Hello! I am a L33t H@x0r!");
+  }
 
 function Henry_Chang() {
     alert("Hello! I am Henry!");
