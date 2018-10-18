@@ -18,8 +18,15 @@ function Brenda_Fitz() {
 
 function Ryan_James(){
    alert("Hello! I am Mr. James!);
+ }
+         
+function davis_smith(){
+     alert("Hello world");
+ }
+
     }
          
 function fireflewdev(){
    alert("Hello! I am FireflewDev!");
     }
+
