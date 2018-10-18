@@ -28,3 +28,21 @@ function fireflewdev(){
 function Denise_Williams(){
    alert("Hello! I am Mrs. Williams!!);
  }
+         
+function fireflewdev(){
+   alert("Hello! I am FireflewDev!");
+}
+
+function MisterDunn(){
+   alert("Hello! I am Meester Dunn!");
+}    
+
+         
+function davis_smith(){
+     alert("Hello world");
+ }
+
+         
+function fireflewdev(){
+   alert("Hello! I am FireflewDev!");
+    }
